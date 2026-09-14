@@ -1,3 +1,4 @@
 # mis561-portfolio
 A portfolio of projects from my Data Visualization course. This portfolio includes assignments completed using Excel, Tableau, Power BI through DataCamp, Adobe Express, and various AI tools.
+
 Initial E-Commerce Profitability Analysis: Which product subcategory should Southwest Office Solutions prioritize for a margin-recovery plan? Link to [Tableau Workbook ](https://public.tableau.com/views/MIS561AdvancinginExcelandTableau-Pt_1/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would spend more time exploring different chart types before deciding on the final visual.
