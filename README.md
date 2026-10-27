@@ -17,4 +17,4 @@ A portfolio of projects from my Data Visualization course. This portfolio includ
 
 7. **Card Growth Analysis – Wildcat Rewards Offer:** Which customer group should Bear Down Bank prioritize for the first Wildcat Rewards pilot mailing, and how many customers qualify under the approved eligibility requirements? [Tableau workbook](
 https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930725278220/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-). If I were doing this again, I would explore different minimum customer thresholds to determine whether Texas remains the strongest pilot candidate and ensure the recommendation is not overly influenced by the selected group size.
+). If I were doing this again, I would expand the analysis beyond individual states by comparing customer groups based on both state and generation to determine whether a more targeted group offers a higher concentration of eligible customers while maintaining a sufficient customer base.
