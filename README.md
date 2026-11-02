@@ -18,3 +18,11 @@ A portfolio of projects from my Data Visualization course. This portfolio includ
 7. **Card Growth Analysis – Wildcat Rewards Offer:** Which customer group should Bear Down Bank prioritize for the first Wildcat Rewards pilot mailing, and how many customers qualify under the approved eligibility requirements? [Tableau workbook](
 https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930725278220/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ). If I were doing this again, I would expand the analysis beyond individual states by comparing customer groups based on both state and generation to determine whether a more targeted group offers a higher concentration of eligible customers while maintaining a sufficient customer base.
+
+
+8. **Data Storytelling with Adobe Express**, completed November 2, 2026.
+   **Client and Executive:** Bear Down Bank, Renee Castillo, Director of Card Operations.
+   **Recommendation:** Approve a $3,520 budget to replace 440 non-contactless cards early. Allow the remaining 1,253 cards expiring within six months to follow the routine replacement schedule.
+   **Links:** [Infographic PDF](adobe/MIS%20561_bennaji_data%20storytelling.pdf) | [Adobe Express Infographic](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:66350f8f-6c72-5023-b816-96290db25b57?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+   **Design Justification:** I used teal to highlight the cards recommended for early replacement and gray to distinguish the cards following the routine replacement schedule. The first chart presents replacement timing, while the second breaks down early replacement counts and costs by card type. A prominent headline and recommendation box emphasize the decision and associated budget.
+   **AI Use Disclosure:** I used ChatGPT Sol 6.1 to brainstorm design ideas, improve the visual presentation, and assist with navigating Tableau and Adobe Express. The final design decisions and recommendations were my own.
