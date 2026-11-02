@@ -23,5 +23,7 @@ https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_179307252
 8. **Data Storytelling with Adobe Express**, completed November 2, 2026.
  Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: approve $3,520 to replace 440 non-contactless cards early while allowing the remaining 1,253 cards to follow their routine replacement schedule.
  [Infographic PDF](https://github.com/badermbennaji/mis561-portfolio/blob/main/adobe/MIS%20561_bennaji_data%20storytelling.pdf) | [Adobe Express Infographic](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:66350f8f-6c72-5023-b816-96290db25b57?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
    **Design Justification:**  I chose two vertically stacked horizontal bar charts instead of the side-by-side layout I considered, allowing Renee to first distinguish the 440 early replacements from the 1,253 routine replacements and then see the cost breakdown by card type. I used teal for early replacements and gray for routine replacements, with direct labels to make the distinction clear without relying on color alone. I removed the numerical x-axis from the replacement-timing chart because the bars already display exact counts, reducing unnecessary clutter.
+   
    **AI Use Disclosure:** I used ChatGPT Sol 6.1 to brainstorm design ideas, improve the visual presentation, and assist with navigating Tableau and Adobe Express. The final design decisions and recommendations were my own.
