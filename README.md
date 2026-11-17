@@ -32,7 +32,9 @@ https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_179307252
 
    **Toughest Objection:** Why hire Ben Naji Consulting if the initial analysis is already complete? Slide 6 explains that the engagement will verify current card records and replacement costs and turn the initial findings into a rollout plan before the bank commits implementation funds.
 
-   **AI Use Disclosure:** I used ChatGPT Sol 6.1 to brainstorm ideas, refine my approach, and review the pitch. The final decisions and recommendations were my own.
+   **AI Use Disclosure:** I used ChatGPT Sol 6.1 on November 16, 2026 to brainstorm ideas, refine my approach, and review the pitch. The final decisions and recommendations were my own.
+
+
 
    Training Completed: November 15, 2026
 
